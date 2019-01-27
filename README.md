@@ -1,5 +1,11 @@
-EurKEY-Mac
+EurKEY-Mac 1.3
 ==========
+
+This version contains all modifications introduced in version layout 1.3, as
+well as all fixes contained by
+[lbschenkel](https://github.com/lbschenkel/EurKEY-Mac).
+
+---
 
 The Keyboard Layout for Europeans, Coders and Translators - Version for Mac OS X.
 
